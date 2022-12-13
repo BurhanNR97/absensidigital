@@ -1,0 +1,172 @@
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.Properties.Resources.resources
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.SplashScreen.resources
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.UI.FAbout.resources
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FAwal.resources
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FDataAkunPengguna.resources
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FDosen.resources
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FJadwalKuliah.resources
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FLaporanAbsensi.resources
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FLogin.resources
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FMahasiswa.resources
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FMataKuliah.resources
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FUtamaAdmin.resources
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FUtamaDosen.resources
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FUtamaOperator.resources
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.csproj.GenerateResource.cache
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.csproj.CoreCompileInputs.cache
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\Absensi Mahasiswa.exe.config
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\Absensi Mahasiswa.exe
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\Absensi Mahasiswa.pdb
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\Emgu.CV.dll
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\Emgu.CV.UI.dll
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\Emgu.Util.dll
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\Guna.UI2.dll
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\MySql.Data.dll
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\Google.Protobuf.dll
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\BouncyCastle.Crypto.dll
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\Renci.SshNet.dll
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\MySql.Data.xml
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.csproj.CopyComplete
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.exe
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.pdb
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\Emgu.CV.Contrib.dll
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\Emgu.CV.Cuda.dll
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\ZedGraph.dll
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\Emgu.CV.xml
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\Emgu.CV.Contrib.xml
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\Emgu.CV.UI.xml
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\Emgu.Util.xml
+D:\Kuliah\Absensi Mahasiswa\bin\Debug\Emgu.CV.Cuda.xml
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.csprojAssemblyReference.cache
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FAbsensi.resources
+D:\Kuliah\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.UI.FCitra.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Absensi Mahasiswa.exe.config
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Absensi Mahasiswa.exe
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Absensi Mahasiswa.pdb
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Emgu.CV.Cuda.dll
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\ZedGraph.dll
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Google.Protobuf.dll
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\BouncyCastle.Crypto.dll
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Renci.SshNet.dll
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Emgu.CV.xml
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Emgu.CV.Contrib.xml
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Emgu.CV.UI.xml
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Emgu.Util.xml
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\MySql.Data.xml
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Emgu.CV.Cuda.xml
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FAbsensi.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.Properties.Resources.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.SplashScreen.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.UI.FAbout.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FAwal.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.UI.FCitra.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FDataAkunPengguna.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FDosen.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FJadwalKuliah.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FLaporanAbsensi.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FLogin.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FMahasiswa.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FMataKuliah.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FUtamaAdmin.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FUtamaDosen.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FUtamaOperator.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.csproj.GenerateResource.cache
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.csproj.CoreCompileInputs.cache
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.csproj.CopyComplete
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.exe
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.pdb
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.csprojAssemblyReference.cache
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FAbsensi.resources
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.Properties.Resources.resources
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.SplashScreen.resources
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.UI.FAbout.resources
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FAwal.resources
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.UI.FCitra.resources
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FDataAkunPengguna.resources
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FDosen.resources
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FJadwalKuliah.resources
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FLaporanAbsensi.resources
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FLogin.resources
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FMahasiswa.resources
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FMataKuliah.resources
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FUtamaAdmin.resources
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FUtamaDosen.resources
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FUtamaOperator.resources
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.csproj.GenerateResource.cache
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.csproj.CoreCompileInputs.cache
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.exe
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.pdb
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\Absensi Mahasiswa.exe.config
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\Absensi Mahasiswa.exe
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\Absensi Mahasiswa.pdb
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\Emgu.CV.Contrib.dll
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\Emgu.CV.dll
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\Emgu.CV.UI.dll
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\Emgu.Util.dll
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\MySql.Data.dll
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\Emgu.CV.Cuda.dll
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\ZedGraph.dll
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\Google.Protobuf.dll
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\BouncyCastle.Crypto.dll
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\Renci.SshNet.dll
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\Emgu.CV.xml
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\Emgu.CV.Contrib.xml
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\Emgu.CV.UI.xml
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\Emgu.Util.xml
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\MySql.Data.xml
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\Emgu.CV.Cuda.xml
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.csproj.CopyComplete
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\CrystalDecisions.Shared.dll
+D:\Kuliah\SKRIPSI\burhan\New folder\Absensi Mahasiswa\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\ShockwaveFlashObjects.dll
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\stdole.dll
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.UI.FRekap.resources
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.csproj.AssemblyReference.cache
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\CrystalDecisions.Shared.dll
+D:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Absensi Mahasiswa.exe.config
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Absensi Mahasiswa.exe
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Absensi Mahasiswa.pdb
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\ShockwaveFlashObjects.dll
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Emgu.CV.Cuda.dll
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\ZedGraph.dll
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Google.Protobuf.dll
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\BouncyCastle.Crypto.dll
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Renci.SshNet.dll
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\stdole.dll
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Emgu.CV.xml
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Emgu.CV.Contrib.xml
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Emgu.CV.UI.xml
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Emgu.Util.xml
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\MySql.Data.xml
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\bin\Debug\Emgu.CV.Cuda.xml
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.csproj.AssemblyReference.cache
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FAbsensi.resources
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.Properties.Resources.resources
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.SplashScreen.resources
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.UI.FAbout.resources
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FAwal.resources
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.UI.FCitra.resources
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FDataAkunPengguna.resources
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FDosen.resources
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FJadwalKuliah.resources
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FLaporanAbsensi.resources
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FLogin.resources
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FMahasiswa.resources
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FMataKuliah.resources
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.UI.FRekap.resources
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FUtamaAdmin.resources
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FUtamaDosen.resources
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi_Mahasiswa.FUtamaOperator.resources
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.csproj.GenerateResource.cache
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.csproj.CoreCompileInputs.cache
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.csproj.CopyComplete
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.exe
+E:\Kuliah\SKRIPSI\burhan\Absensi Mahasiswa\obj\Debug\Absensi Mahasiswa.pdb
